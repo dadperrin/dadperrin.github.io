@@ -4,7 +4,7 @@ domain: null
 tags:
 - Beaufort
 - risky_behaviour
-- adhd
+- ADHD
 created: 2025-03-30 14:09
 beginning: 1983-06-01
 end: 1983-10-31

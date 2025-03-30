@@ -5,7 +5,7 @@ domain:
 tags:
 - Beaufort
 - Imperial_Oil
-- adhd
+- ADHD
 created: 2025-02-23 21:29
 publish: true
 draft: false

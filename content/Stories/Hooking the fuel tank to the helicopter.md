@@ -5,7 +5,7 @@ domain:
 tags:
 - Beaufort
 - helicopter
-- adhd
+- ADHD
 - risky_behaviour
 - Imperial_Oil
 created: 2025-02-16T20:05:00

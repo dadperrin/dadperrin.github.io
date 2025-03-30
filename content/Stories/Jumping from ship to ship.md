@@ -5,7 +5,7 @@ domain:
 tags:
 - Beaufort
 - risky_behaviour
-- adhd
+- ADHD
 - Imperial_Oil
 created: 2025-02-17T19:37:00
 publish: true

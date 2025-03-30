@@ -3,7 +3,7 @@ status: fleeting
 domain:
 - work
 tags:
-- adhd
+- ADHD
 - Beaufort
 - Imperial_Oil
 created: 2025-02-16T21:38:00

@@ -5,7 +5,7 @@ domain:
 tags:
 - Beaufort
 - helicopter
-- adhd
+- ADHD
 - Imperial_Oil
 created: 2025-02-17T15:04:00
 publish: true
