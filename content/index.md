@@ -10,4 +10,6 @@ A lot of the stories are still stubs and there's more than just the Arctic. I'll
 
 I realize now that my #ADHD played a part in all this 🤪 It's a double-edged sword.
 
+These stories are a subset of my [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten). Links to pages I consider private don't work on purpose.
+
 This is a work in progress. Stay tuned...

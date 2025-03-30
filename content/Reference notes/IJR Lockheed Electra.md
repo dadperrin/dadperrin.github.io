@@ -1,6 +1,5 @@
 ---
 title: C-GYCG Buffalo Airways Lockheed L-188 Electra
-published: null
 created: 2025-02-23
 tags:
 - Beaufort
