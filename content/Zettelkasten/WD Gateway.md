@@ -23,6 +23,10 @@ In drydock
 
 ![Taking core samples from the dredged soil in the hold|281x423](../Files/Tray%202.9%2018.jpg)
 
+![In drydock|332x497](../Files/Box%202.16%20Sep%2085%20%206.jpg)
+
+![That's Bill Fink for scale](../Files/Box%202.16%20Sep%2085%20%204.jpg)
+
 ---
 
 # References
