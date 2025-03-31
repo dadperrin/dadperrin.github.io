@@ -16,4 +16,4 @@ updated: 2025-03-30 9:13 am
 
 # Drinking saltwater coffee on Pullen Island
 
-Dates are a bit of a guess. I was at Pullen International Airport for the S64 refuelling skid before Christmas. The desalinator wasn't working and we only had sea water for coffee and brushing our teeth. I don't recall showering.
+I was at Pullen International Airport for the S64 refuelling skid before Christmas. The desalinater wasn't working and we only had sea water for coffee and brushing our teeth. I don't recall showering.

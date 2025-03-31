@@ -20,8 +20,6 @@ publish: 'true'
 
 [Avord Arms](Avord%20Arms.md)
 
-[Andrew Shisko](Andrew%20Shisko.md)
-
 ---
 
 # References

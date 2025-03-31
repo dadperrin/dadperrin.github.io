@@ -13,6 +13,8 @@ updated: 2025-03-30 9:17 am
 
 # ERCL Arctic Operations
 
+We had cool stickers.
+
 ![null](Files/Exported%20image%2020250216205659-0.jpeg)
 
 ![\|213x258](../Files/Beaufort%20sticker.jpg)

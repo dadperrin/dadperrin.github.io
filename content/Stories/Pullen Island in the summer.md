@@ -16,10 +16,11 @@ updated: 2025-03-30 9:19 am
 
 # Pullen Island in the summer
 
-[Hugh McLellan](Hugh%20McLellan)
+[Hugh](Hugh%20McLellan) lounging on the beach.
 
 ![\|462x312](../Files/Tray%202.11%2053.jpg)
 
+Me in an old-fashioned selfie.
 ![\|455x308](../Files/Tray%202.14%206.jpg)
 
 [Pullen Island International Airport](Pullen%20Island%20International%20Airport.md)

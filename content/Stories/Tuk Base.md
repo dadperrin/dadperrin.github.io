@@ -13,7 +13,7 @@ draft: false
 updated: 2025-03-30 9:41 am
 ---
 
-My summer home for a couple of years
+My summer home for a couple of years. Looking west.
 
 ![Looking west](../Files/Tray%202.11%208.jpg)
 

@@ -19,7 +19,7 @@ updated: 2025-04-30 3:04 pm
 Helicopter portable fuel tank
 Needed to test flying it
 Flew from the Municipal Airport west of Edmonton where the tank was on a flatbed waiting.
-Designed by Jacques Bourque to sling starting in a horizontal orientation, which didn't work well. As the helicopter sped up, the tank drag increased as it swung towards the tail rotor. This flight behaviour was not popular with the pilots.
+Designed to sling starting in a horizontal orientation, which didn't work well. As the helicopter sped up, the tank drag increased as it swung towards the tail rotor. This flight behaviour was not popular with the pilots.
 
 ![](../Files/image-9.png)
 

@@ -16,7 +16,8 @@ updated: 2025-03-30 9:38 am
 
 # Float plane and grappling hook McKenzie Delta
 
-Tried to recover a tide gauge.
-Stood on the float
-Didn't find it
-Geoff Spedding
+Tried to recover a tide gauge set up in one of the channels.
+Stood on the float as the float plane traveled the channels. There was a bit of prop wash experienced.
+Just missed flying into a radio tower in the fog.
+Didn't find the tide gauge. No GPS at that time to help locate stuff.
+Geoff S.

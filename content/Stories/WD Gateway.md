@@ -16,12 +16,15 @@ updated: 2025-03-30 9:30 am
 
 # WD Gateway
 
+Loaded in this photo. Not a lot of freeboard on the deck mid-ship.
 ![Loaded](../Files/Tray%202.9%2017.jpg)
-On deck green water
+On deck green water story WIP.
+
+Taking core samples from the dredged soil in the hold
+
+![\|267x402](../Files/Tray%202.9%2018.jpg)
 
 In drydock
-
-![Taking core samples from the dredged soil in the hold|281x423](../Files/Tray%202.9%2018.jpg)
 
 ![In drydock|332x497](../Files/Box%202.16%20Sep%2085%20%206.jpg)
 
