@@ -14,3 +14,5 @@ updated: 2025-03-30 9:18 am
 ---
 
 # Jumping from ship to ship
+
+I got good at watching the waves for timing.

@@ -14,9 +14,13 @@ updated: 2025-03-30 9:29 am
 
 # Pullen Island International Airport
 
+This was a logistics hub for winter drilling operations. A large runway was created on the sand spit, large enough for Hercules transport aircraft, Electras and 737s.
+
 ![](../Files/Box%202.16%20Beaufort%20up%20to%201980%203.jpg)
 
 ![](../Files/Noon%20at%20Pullen%20Is%20Int_l%20Airport.jpg)
+
+We experienced the occasional blizzard. I recall being outside when the temperature with windchill was -150 F
 
 ![](../Files/Pullen%20Is%20on%20a%20cold%20winter%20day.jpg)
 
