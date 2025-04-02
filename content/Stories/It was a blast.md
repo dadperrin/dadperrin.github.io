@@ -5,6 +5,8 @@ domain:
 tags:
 - workterm
 - '#Toronto'
+- ADHD
+- risky_behaviour
 created: 2025-03-30 21:23
 beginning: 1976-09-01
 end: 1976-12-31
@@ -30,7 +32,7 @@ This is a small electric generator to set off the charges. One thing leads to an
 
 ![](../Files/Oldies_20140727_0006.jpg)
 
-There many many safety precautions.  Layers of rubber mats were laid over the blast site and these air blasts weren't supposed to happen. They were rare and I somehow caught a couple on camera. We dodged the rocks as they came down. I learned to park my rental car at a distance.
+There many many safety precautions.  Layers of rubber mats were laid over the blast site and these air blasts weren't supposed to happen. They were rare and I somehow caught a couple on camera. We dodged the rocks as they came down. I learned to park my rental car at a distance. ADHD brain thought this was great.
 
 ![](../Files/Oldies_20140727_0005.jpg)
 
@@ -39,3 +41,5 @@ There many many safety precautions.  Layers of rubber mats were laid over the bl
 When I wasn't blowing stuff up and in Toronto, I lived in a rooming house in Castle Frank just off Bloor Street. I was in the basement and knew when the Bloor Street subway, which was about 50m from here, started up in the morning.
 
 ![\|450x545](../Files/image-10.png)
+
+![\|455x307](../Files/Tray%202.7%2087.jpg)
