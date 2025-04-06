@@ -15,6 +15,9 @@ updated: 2025-04-06 12:22 pm
 
 # The Men That Don't Fit In
 
+By Robert W. Service,
+From The Spell of the Yukon, and Other Verses, 1911
+
 There's a race of men that don't fit in,  
 A race that can't stay still;  
 So they break the hearts of kith and kin,  
