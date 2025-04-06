@@ -5,12 +5,13 @@ domain:
 - work
 tags:
 - workterm
+- Waterloo
 created: 2025-02-20T21:13:00
 beginning: 1975-05-01
 end: 1978-12-20
 publish: true
 draft: false
-updated: 2025-03-31 9:17 pm
+updated: 2025-04-05 08:22 pm
 ---
 
 # Co-op work terms
