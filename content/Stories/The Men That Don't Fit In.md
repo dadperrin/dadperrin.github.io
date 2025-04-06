@@ -8,6 +8,9 @@ created: 2025-02-16T21:45:00
 author:
 - Robert W. Service
 source: The Spell of the Yukon, and Other Verses
+publish: true
+draft: false
+updated: 2025-04-06 12:22 pm
 ---
 
 # The Men That Don't Fit In
