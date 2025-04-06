@@ -16,9 +16,11 @@ updated: 2025-04-05 08:22 pm
 
 # Co-op work terms
 
+![\|197x196](../Files/engsoc_logo.jpg)
+
 1. [1st coop workterm, City of Brantford](1st%20coop%20workterm,%20City%20of%20Brantford.md)
 1. [2nd coop workterm,  Ontario Housing in Toronto](2nd%20coop%20workterm,%20%20Ontario%20Housing%20in%20Toronto.md)
 1. [3rd coop workterm, Ontario Housing in Toronto](It%20was%20a%20blast.md)
-1. [4th coop workterm Syncrude - Northward Construction](4th%20coop%20workterm%20Syncrude%20-%20Northward%20Construction.md)
+1. [4th coop workterm Syncrude - Northward Developments Ltd.](4th%20coop%20workterm%20Syncrude%20-%20Northward%20Developments%20Ltd..md)
 1. [5th coop workterm, Syncrude Mine Geology](5th%20coop%20workterm,%20Syncrude%20Mine%20Geology.md)
 1. [Imperial Oil](Imperial%20Oil.md)
