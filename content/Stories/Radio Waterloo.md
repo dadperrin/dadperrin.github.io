@@ -10,7 +10,7 @@ beginning: 1974-09-01
 end: 1975-04-30
 publish: true
 draft: false
-updated: 2025-04-03 8:50 pm
+updated: 2025-04-06 10:37
 ---
 
 # Radio Waterloo
