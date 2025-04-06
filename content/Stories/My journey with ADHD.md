@@ -18,7 +18,7 @@ Following the ADHD tags shows the two edges of the sword that showed up in my li
 
 For me, ADHD showed up as unworkability in: relationships, dealing with conflict, hyperfocus - especially with TV and computers, procrastination, risky behaviour, addiction, not being able to find stuff around the house, easily bored with repetitive tasks, easily bored period...
 
-On the hand; it's said the people with ADHD have no trouble thinking outside the box because we are blissfully unaware that there is a box. I could put links to the many unique job assignments I had as a result. The ones I've written about have the #ADHD tag already.
+On the other hand; it's said the people with ADHD have no trouble thinking outside the box because we are blissfully unaware that there is a box. I had many unique job assignments as a result. The ones I've written about have the #ADHD tag already.
 
 I posted some info on my LinkedIn profile last spring.
 
