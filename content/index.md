@@ -2,7 +2,7 @@
 title: Memoirs
 publish: true
 draft: false
-updated: 2025-03-30 3:43 pm
+updated: 2025-04-05 6:21 pm
 ---
 Danielle asked me to write down stories from when I was younger working in the Arctic. We did some crazy stuff. 
 
