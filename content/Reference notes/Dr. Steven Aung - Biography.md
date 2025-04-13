@@ -3,7 +3,6 @@ title: Dr. Steven Aung - Biography
 source: https://www.aung.com/about/biography
 author:
 - '[[Administrator]]'
-published: null
 created: 2025-02-25
 description: Dr. Steven K.H. Aung is a pioneer in the integration of western, traditional Chinese and complementary medicine residing in Edmonton, Alberta, Canada
 tags:
@@ -15,6 +14,8 @@ tags:
 - own_needs/recovery
 domain:
 - personal
+draft: false
+publish: true
 ---
 
 ![profile-pic](https://www.aung.com/images/stories/profile-pic.jpg)Dr. Steven K.H. Aung is a pioneer in the integration of western, traditional Chinese and complementary medicine. His efforts have helped to make Alberta and Canada an active centre in the field of integrated and complementary medicine. His unique approach to medicine, combined with the remarkable compassion he brings to all that he does, has made him a highly respected teacher, researcher and physician.
