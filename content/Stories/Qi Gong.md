@@ -22,7 +22,7 @@ This discipline is a big part of my life and this story will take a few versions
 
 Bottom line: I'm pretty sure I would not be here typing right now if I hadn't been introduced to Qi Gong in 1995. I now realize it helped me manage my undiagnosed ADHD.
 
-I learned Aung Medical Qi Gong from  [Dr. Steven Aung](https://www.aung.com/health-integrated-medicine/qi-gong). I took weekend courses and went on retreats. I went to weekly practise sessions and then started introducing Qi Gong at work when I was at PanCanadian. I led several weekly practices for probably 10 years.
+I learned [Aung Medical Qi Gong](https://www.aung.com/health-integrated-medicine/qi-gong) from [Dr. Aung](Dr.%20Aung) . I took weekend courses and went on retreats. I went to weekly practise sessions and then started introducing Qi Gong at work when I was at PanCanadian. I led several weekly practices for probably 10 years.
 
 I continue to do some Qi Gong exercises most days.
 
