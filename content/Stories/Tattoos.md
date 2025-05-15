@@ -17,16 +17,16 @@ updated: 2025-05-14 9:26 pm
 
 ## Osprey
 
-[Osprey Symbolism - Spirit Animal Totems](https://www.spirit-animals.com/osprey-symbolism/)
-
 ![July 14, 2017|370x555](../Files/IMG_20170714_1724174.jpg)
+
+[Osprey Symbolism - Spirit Animal Totems](https://www.spirit-animals.com/osprey-symbolism/)
 
 An excerpt from one of the sites:
 
  > 
  > People with the Osprey totem know how to go after what they want. They also know how to hold onto it once they get it. Thus they can **dive deeply into the pools of creativity and draw forth what they need to move forward**. Like the Falcon, folks with this spirit animal have impeccable timing in all matters. They also know exactly when to grab opportunities. These folks tend to treat others with great respect, regardless of how they feel about them. **They always maintain their integrity** even in a clash of wills with another.
 
-The main symbolism for me is integrity. I got this tattoo in my first year of addiction recovery. I also have been creative and think outside the box in my personal life and work.
+The main symbolism for me is integrity. I also have been creative and think outside the box in my personal life and work.
 
 ## Tiger
 
@@ -36,10 +36,8 @@ When Bryant was in elementary school, grade 3, and he bought this carving at a g
 It was somehow connected to our cat at the time, Jerry, who seemed to like reading The Economist.
 ![Jerry reading the Economist](Jerry%20economist.jpg)
 
-[Tiger Symbolism - Spirit Animal Totems](https://www.spirit-animals.com/tiger-symbolism/)
-
-[Tiger Spirit Animal - Meaning and Interpretations - Spirit Animals](https://www.spiritanimals.org/tiger/)
-
 ![April 27, 2025](../Files/PXL_20250427_191355851~2.jpg)
+
+[Tiger Symbolism - Spirit Animal Totems](https://www.spirit-animals.com/tiger-symbolism/)
 
 The important symbolism to me is patience, protection, strength, focus and persistence.
