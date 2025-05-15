@@ -1,9 +1,8 @@
 ---
-
 title: Memoirs
 publish: true
 draft: false
-updated: 2025-05-09 9:46 pm
+updated: 2025-05-14 21:26
 
 ---
 
@@ -14,3 +13,5 @@ A lot of the stories are still stubs and there's more than just the Arctic. I'll
 These stories are a subset of my [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten). Links to pages I consider private don't work on purpose.
 
 This is a work in progress.
+
+

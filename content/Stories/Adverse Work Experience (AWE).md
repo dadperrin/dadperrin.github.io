@@ -32,7 +32,7 @@ I just made this up. Is it a thing?
 
 ### Co-workers who likely gossiped behind my back:
 
-* tall skinny at PanCan Karen
+* tall skinny at PanCan Karen Sjoberg?
 * Michelle at Cenovus
 
 ### Gate keepers
