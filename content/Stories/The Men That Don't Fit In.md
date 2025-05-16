@@ -10,8 +10,10 @@ author:
 source: The Spell of the Yukon, and Other Verses
 publish: true
 draft: false
-updated: 2025-04-06 12:22 pm
+updated: 2025-05-15 9:27 pm
 ---
+
+There was no recognition or label for #ADHD in his time.
 
 # The Men That Don't Fit In
 
