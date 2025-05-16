@@ -40,4 +40,4 @@ It was somehow connected to our cat at the time, Jerry, who seemed to like readi
 
 [Tiger Symbolism - Spirit Animal Totems](https://www.spirit-animals.com/tiger-symbolism/)
 
-The important symbolism to me is patience, protection, strength, focus and persistence.
+The important symbolism to me is patience, protection, strength, focus and persistence. And this is a way for me to honour that Tiger spirit.
