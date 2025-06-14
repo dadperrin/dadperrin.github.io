@@ -2,13 +2,13 @@
 title: Memoirs
 publish: true
 draft: false
-updated: 2025-05-15 8:58 pm
+updated: 2025-06-14 8:58 am
 
 ---
 
 Danielle asked me to write down stories from when I was younger working in the Arctic. We did some crazy stuff. 
 
-A lot of the stories are still stubs and there's more than just the Arctic. I'll be adding stuff from my time at other jobs and some crazy personal activities. 
+Today I'm adding stories about the influential dad's in my life as recognition of Fathers' Day. I am aware that without them, I might not be a father.
 
 These stories are a subset of my [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten). Links to pages I consider private don't work on purpose.
 
