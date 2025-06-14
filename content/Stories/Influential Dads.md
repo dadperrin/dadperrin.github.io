@@ -15,17 +15,19 @@ aliases: null
 
 # Influential Dads
 
-I now recognize these men had a big influence on me growing up. I'm still growing up and the influence continues.
-When I was a kid, men outside the family were "Mr."
+My dad died shortly after my 8th birthday and I don't remember a lot about him. I now recognize these men had a big influence on me growing up and becoming a dad and grandpa. I'm still growing up and the influence continues.
 
-* [my Dad](my%20Dad.md)
+When I was a kid, men outside the family were "Mr..."
+
+* [My Dad](My%20Dad.md)
 * [Grandpa Bishop](Grandpa%20Bishop.md)
 * [Uncle Gorge](The%20McRays.md)
-* *Mr. Postons*
+* [Mr. Postons](Mr.%20Postons.md)
 * *Mr.  Sanford*
 * *Mr. Yeager*
 * *Mr. Warring*
 * *Mr. Woodward*
+* [Ian](Ian.md)
 * [Walter Gretzky](Walter%20Gretzky.md)
 * *Bill Wahl*
 * 

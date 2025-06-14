@@ -15,7 +15,7 @@ aliases: null
 
 # Walter Gretzky
 
-In 2003 (?), Scott and I drove up to Walter Gretzky's house in Brantford Ontario and rang the doorbell. He answered and invited us in. Wayne's younger brother was home too.
+In the fall of 1999, Scott and I drove up to Walter Gretzky's house in Brantford Ontario and rang the doorbell. He answered and invited us in. Wayne's younger brother was home too.
 
 IMHO, Walter was a great man. We visited for a while, mostly about hockey. He told me how he was shovelling snow for the older neighbours and encouraged me to do similar acts of service. I'll never forget it.
 
