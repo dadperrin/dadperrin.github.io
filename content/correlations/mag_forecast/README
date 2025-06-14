@@ -1,0 +1,70 @@
+December 2, 2009
+
+                   Space Weather Prediction Center (SWPC)
+		        Latest Solar-Geophysical Data
+
+ ==========================================================================
+             GOES 14 Primary Satellite for XRS data
+   
+December 1, 2009: GOES 14 is the SWPC Primary GOES X-ray Satellite.
+GOES 11 is the SWPC Primary GOES Satellite for Protons and Electrons.
+      
+The following reports had header changes.
+
+      Current Space Weather Indices
+      Daily Space Weather Indices
+      Daily Solar Data
+      Daily Particle Data
+
+See details at http://www.swpc.noaa.gov/about_data.html
+
+==========================================================================
+
+
+This Menu is designed for quick access to the most recent Space Weather 
+Prediction Center (SWPC) products.
+    Via Anonymous FTP: ftp.swpc.noaa.gov cd to /pub/latest/ 
+    Via the Web:       http://www.swpc.noaa.gov/ftpmenu/latest.html
+
+SWPC maintains many more data lists, plots, and displays on-line. For 
+example, older reports of the data in this directory can be found in 
+other directories. See http://www.swpc.noaa.gov/ftpmenu/
+
+   o "Solar Alerts, Forecasts, and Summaries" (forecasts) for text reports.
+     
+   o "Indices, Events, and Region Data" (indices) for indices from 1994
+     
+   o Most directories contain an README file describing its contents and
+     other Help information.
+     
+   o "Historical SWPC Products from 1996" (warehouse) is the SWPC archive
+
+
+See http://www.swpc.noaa.gov/Data/ for a table of on-line data at SWPC, 
+including links to non-SWPC sources for older data.
+
+
+
+    ***************************************************************
+    ** Please read the SWPC Disclaimer at http://www.swpc.noaa.gov/
+    ** before using the forecasts and data in these reports.
+    ***************************************************************
+
+   SWPC provides near-real-time and recent data, solar and geomagnetic 
+   indices and solar event reports created from preliminary reports. 
+   Preliminary data may contain errors or be revised after further 
+   review. The historical products in this SWPC Warehouse are the 
+   preliminary reports as originally published. SWPC does not encourage 
+   the use of preliminary data for research purposes. 
+   
+   Links to archive sites with final data: http://www.swpc.noaa.gov/Data/
+   ****************************************************************** 
+
+
+
+Please send comments and questions to SWPC.Webmaster@noaa.gov
+Report problems to                    SWPC.CustomerSupport@noaa.gov
+
+========================================================================
+========================================================================
+========================================================================

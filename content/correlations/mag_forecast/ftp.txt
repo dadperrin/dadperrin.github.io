@@ -1,0 +1,5 @@
+cd pub/latest/
+get curind.txt 
+get dayind.txt
+get DGD.txt
+get DSD.txt

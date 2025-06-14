@@ -1,0 +1,20 @@
+:Product: Summary of Space Weather Observations dayobs.txt
+:Issued: 2025 Jun 13 0030 UTC
+# Prepared by the US Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Product description and SWPC contact on the Web
+# https://www.swpc.noaa.gov/content/subscription-services
+#
+#             Summary of Space Weather Observations
+#
+:Solar_Region_Summary: 2025 Jun 12
+# Region   Location         Sunspot Characteristics
+#           Helio                      Spot  Spot  Mag.
+# Num   Lat.,CMD  Long.  Area  Extent  class count class
+ 4105    S15W46    132    260    13     EKC   15     BG
+ 4107    S15W67    153    220     3     DAO    3     BD
+ 4110    N06W30    116     30     4     DAO    5      B
+ 4111    N15E27     59    120     3     HSX    1      A
+ 4112    S06E11     75      5     1     AXX    1      A
+ 4113    N10E50     36     20     3     HSX    2      A
+ 4114    N18E57     33     70     5     CAI    5      B
+ 4115    N21E67     19    180    10     DSO    4      B

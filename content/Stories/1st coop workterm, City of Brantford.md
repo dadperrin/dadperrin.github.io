@@ -12,6 +12,8 @@ draft: false
 updated: 2025-04-06 10:37
 beginning: 1975-05-01
 end: 1975-08-31
+aliases:
+- first workterm
 ---
 
 # City of Brantford
