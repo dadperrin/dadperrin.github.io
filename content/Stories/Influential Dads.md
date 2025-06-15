@@ -9,13 +9,13 @@ beginning: null
 end: null
 publish: true
 draft: false
-updated: 2025-06-14 7:44 am
+updated: 2025-06-15 12:33 pm
 aliases: null
 ---
 
 # Influential Dads
 
-My dad died shortly after my 8th birthday and I don't remember a lot about him. I now recognize these men had a big influence on me growing up and becoming a dad and grandpa. I'm still growing up and the influence continues.
+Today I’m adding stories about the Influential Dads in my life as recognition of Fathers’ Day. I am aware that without them, I might not be a father and grandfather. My dad died shortly after my 8th birthday and I don't remember a lot about him. I now recognize these men had a big influence on me growing up and becoming a dad and grandpa. I'm still growing up and the influence continues.
 
 This is work in progress.
 
