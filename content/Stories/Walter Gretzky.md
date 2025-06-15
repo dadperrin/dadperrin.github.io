@@ -19,7 +19,7 @@ In the fall of 1999, Scott and I drove up to Walter Gretzky's house in Brantford
 
 IMHO, Walter was a great man. We visited for a while, mostly about hockey. He told me how he was shovelling snow for the older neighbours and encouraged me to do similar acts of service. I'll never forget it.
 
-![\|520x431](image%201.png)
+![\|520x431](Walters%20house.png)
 
 This visit was a bit of Wayne Gretzky's quote; "100% of the shots you don't take don't go in". If I hadn't rung the doorbell, we never would have met Walter.
 
